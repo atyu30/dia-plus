@@ -12,5 +12,6 @@ run: sh install.sh
 
 ```
 #Usage: 
-
-.. image:: https://github.com/atyu30/dia-plus/raw/master/dia-plus.png 
+---
+![image](https://github.com/atyu30/dia-plus/raw/master/dia-plus.png)
+---
